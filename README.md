@@ -1,5 +1,8 @@
 # Implement a design with bootstrap
 In this project, you will implement 3 web pages with Bootstrap. You will use all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges that you learned previously.
+
+# [LIVE DEMO ](https://javb92.github.io/holberton-smiling-school/ "LIVE DEMO ")
+
 ### Requirements
 - You have to use Bootstrap
 - your styles.css must be as small as you can - you must use as much as you can Bootstrap classes
